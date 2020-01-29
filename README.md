@@ -9,9 +9,10 @@
 ## Who Am I?
 ###  I am an Art lover, Art like paintings, making craft items out of waste is my intrests.I am also a good chef.
 
+
 ## What Did I Study?
 ### I am a graduate student at San Jose State University specilization in Data science with a GPA 3.5 going to graduate in May 2021
-
+![Image](https://www.flaticon.com/free-icon/paint-palette_1077629)
 
 
 
