@@ -1,11 +1,19 @@
 ## Welcome to My page 
 
-You can also find me here [Link](https://www.linkedin.com/in/srilalitha-veerubhotla/)
+### _"Your attitude should reflect the inner hungriness of your aim"_
+
+### _"Don’t run in a loop take a exist immediately"_
+
+### These Lines inspire me alot, by the way i am a self motivator
+
+## Who Am I?
+###  I am an Art lover, Art like paintings, making craft items out of waste is my intrests.I am also a good chef.
+
+## What Did I Study?
+### I am a graduate student at San Jose State University specilization in Data science with a GPA 3.5 going to graduate in May 2021
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -24,6 +32,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+
+You can also find me here [Link](https://www.linkedin.com/in/srilalitha-veerubhotla/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
