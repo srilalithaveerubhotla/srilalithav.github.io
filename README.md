@@ -6,11 +6,17 @@
 
 ### These Lines inspire me alot, by the way i am a self motivator
 
-## Who Am I?
-###  I am an Art lover, Art like paintings, making craft items out of waste is my intrests.I am also a good chef.
+## My Hobbies
+
 ![Image](https://classroomclipart.com/images/gallery/Clipart/Art_Supplies/TN_girl-with-a-paint-palette-and-brush.jpg) 
 ![Image](https://www.cityofcalabasas.com/events/library/crafts.jpg)
 ![Image](http://photos1.fotosearch.com/bthumb/CSP/CSP993/k15040323.jpg)
+
+## My Interests
+
+(![Image](https://media.gettyimages.com/vectors/illustration-of-a-woman-dancing-indian-dance-in-the-style-of-vector-id864903724?b=1&k=6&m=864903724&s=170x170&h=cTOd0MHoEqH001A2w30_MuEwYLQJHyq2qL1jBHa9vus=)
+![Image](https://fmffiles.s3.amazonaws.com/site-v7/icon-love-travel.png)
+![Image](https://image.winudf.com/v2/image/Y29tLnZpcnR1YWxzdGVwcy5TaGluY2hhbl9pY29uXzE1MjM2NDY1MjlfMDM3/icon.png?w=170&fakeurl=1)
 
 
 
