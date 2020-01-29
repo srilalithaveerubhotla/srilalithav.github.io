@@ -8,11 +8,13 @@
 
 ## Who Am I?
 ###  I am an Art lover, Art like paintings, making craft items out of waste is my intrests.I am also a good chef.
+![Image](http://images.clipartpanda.com/artist-paint-palette-art-palette.jpg) ![Image](https://www.cityofcalabasas.com/events/library/crafts.jpg)
+
 
 
 ## What Did I Study?
 ### I am a graduate student at San Jose State University specilization in Data science with a GPA 3.5 going to graduate in May 2021
-![Image](http://images.clipartpanda.com/artist-paint-palette-art-palette.jpg)
+
 
 
 
