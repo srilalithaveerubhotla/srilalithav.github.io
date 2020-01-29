@@ -8,7 +8,7 @@
 
 ## Who Am I?
 ###  I am an Art lover, Art like paintings, making craft items out of waste is my intrests.I am also a good chef.
-![Image](http://images.clipartpanda.com/artist-paint-palette-art-palette.jpg) ![Image](https://www.cityofcalabasas.com/events/library/crafts.jpg)
+![Image](http://images.clipartpanda.com/artist-paint-palette-art-palette.jpg) ![Image](https://www.cityofcalabasas.com/events/library/crafts.jpg) ![Image](https://i.pinimg.com/originals/74/4e/4e/744e4e037f84896793321e3eb0e7759b.jpg)
 
 
 
