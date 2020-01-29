@@ -12,7 +12,7 @@
 
 ## What Did I Study?
 ### I am a graduate student at San Jose State University specilization in Data science with a GPA 3.5 going to graduate in May 2021
-![Image](https://www.flaticon.com/free-icon/paint-palette_1077629)
+![Image](http://images.clipartpanda.com/artist-paint-palette-art-palette.jpg)
 
 
 
