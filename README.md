@@ -1,6 +1,6 @@
 ## Welcome to My page 
 
-You can also find me here [Link](www.linkedin.com/in/srilalitha-veerubhotla).
+You can also find me here [Link](www.linkedin.com/in/srilalitha-veerubhotla/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
