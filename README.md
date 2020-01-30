@@ -31,3 +31,6 @@
 ![Image](https://image.freepik.com/free-icon/graduate-cap_318-65697.jpg)
 ![Image](http://www.biology.sjsu.edu/image/logo.gif)
 ### specilization in Data science with a GPA 3.5 going to graduate in May 2021
+
+## You can find me on
+![Image](https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/128/social_media_icons_neon_set_256x256_0010_linkedin.png) [link](https://www.linkedin.com/in/srilalitha-veerubhotla/)
