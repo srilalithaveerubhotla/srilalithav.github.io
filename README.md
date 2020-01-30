@@ -16,8 +16,8 @@
 ## My Interests
 
 ![Image](https://media.gettyimages.com/vectors/illustration-of-a-woman-dancing-indian-dance-in-the-style-of-vector-id864903724?b=1&k=6&m=864903724&s=170x170&h=cTOd0MHoEqH001A2w30_MuEwYLQJHyq2qL1jBHa9vus=)
-![Image](https://fmffiles.s3.amazonaws.com/site-v7/icon-love-travel.png)
-![Image](https://image.winudf.com/v2/image/Y29tLnZpcnR1YWxzdGVwcy5TaGluY2hhbl9pY29uXzE1MjM2NDY1MjlfMDM3/icon.png?w=170&fakeurl=1)
+![Image](https://media.giphy.com/media/w4gNrkGxMcBig/giphy.gif)
+![Image](https://www.picgifs.com/anime/anime/shin-chan/anime-shin-chan-103579.gif)
 ![Image](https://thumbs.dreamstime.com/t/buddhist-monk-icon-cartoon-style-isolated-white-background-religious-people-symbol-82004159.jpg)
 
 ## My Insipiration
