@@ -16,7 +16,7 @@
 ## My Interests
 
 ![Image](https://media.gettyimages.com/vectors/illustration-of-a-woman-dancing-indian-dance-in-the-style-of-vector-id864903724?b=1&k=6&m=864903724&s=170x170&h=cTOd0MHoEqH001A2w30_MuEwYLQJHyq2qL1jBHa9vus=)
-![Image](https://media.giphy.com/media/w4gNrkGxMcBig/giphy.gif)
+![Image](https://www.gifsanimados.org/data/media/71/avion-imagen-animada-0119.gif)
 ![Image](https://www.picgifs.com/anime/anime/shin-chan/anime-shin-chan-103579.gif)
 ![Image](https://thumbs.dreamstime.com/t/buddhist-monk-icon-cartoon-style-isolated-white-background-religious-people-symbol-82004159.jpg)
 
@@ -31,37 +31,3 @@
 ![Image](https://image.freepik.com/free-icon/graduate-cap_318-65697.jpg)
 ![Image](http://www.biology.sjsu.edu/image/logo.gif)
 ### specilization in Data science with a GPA 3.5 going to graduate in May 2021
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-You can also find me here [Link](https://www.linkedin.com/in/srilalitha-veerubhotla/)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srilalithaveerubhotla/srilalithav.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
