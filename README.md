@@ -1,3 +1,4 @@
+![Image](https://media.giphy.com/media/OK2gOT81vcSdi/giphy.gif)
 ## Welcome to My page 
 
 ### _"Your attitude should reflect the inner hungriness of your aim"_
